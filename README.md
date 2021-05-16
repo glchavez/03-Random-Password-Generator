@@ -1,8 +1,10 @@
-# 03-Random-Password-Generator
+# 03-Random-Password-Generator\
 
-## Description
+This application is intended to generate a random password for users based on their selection of password length and types of characters they want included.
 
-This application is intended to generate a random password for users based on their selection of password length and types of characters they want included. Given the importance of security in the digital world, this application helps users keep their accounts safe with a unique, strong password. 
+## Overview
+
+Given the importance of security in the digital world, this application helps users keep their accounts safe with a unique, strong password. 
 
 On a more personal level, I created this applicaton to test my knowledge of Java Script and learn from the challanges faced while writing the code. The biggest challange I faced would be understanding the hierarchy of code in Java Script and how to generate a random set of characters that responds to the selecton of user preferences. Using school and outside resources, I was capable of understanding and implementing these concepts. In a bigger picture, I reinforced the concept of using your resouces when coding becuase it is one of your most valuable tools.
 
