@@ -1,4 +1,4 @@
-# 03-Random-Password-Generator\
+# 03-Random-Password-Generator
 
 This application is intended to generate a random password for users based on their selection of password length and types of characters they want included.
 
